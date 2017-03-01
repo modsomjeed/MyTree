@@ -1,0 +1,5 @@
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\Order\bin\Debug\Order.dll
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\Order\bin\Debug\Order.pdb
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\Order\obj\Debug\Order.dll
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\Order\obj\Debug\Order.pdb
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache

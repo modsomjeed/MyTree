@@ -1,0 +1,5 @@
+c:\users\udom\documents\visual studio 2010\Projects\MyTree\FoodsAndDrink\bin\Debug\FoodsAndDrink.dll
+c:\users\udom\documents\visual studio 2010\Projects\MyTree\FoodsAndDrink\bin\Debug\FoodsAndDrink.pdb
+c:\users\udom\documents\visual studio 2010\Projects\MyTree\FoodsAndDrink\obj\Debug\FoodsAndDrink.dll
+c:\users\udom\documents\visual studio 2010\Projects\MyTree\FoodsAndDrink\obj\Debug\FoodsAndDrink.pdb
+C:\Users\Udom\Documents\Visual Studio 2010\Projects\MyTree\FoodsAndDrink\obj\Debug\FoodsAndDrink.csprojResolveAssemblyReference.cache
